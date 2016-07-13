@@ -18,7 +18,7 @@
   npm install -g nodemon
   ```
 2. Install node packages - Go to the highroll project folder directory
-3
+
   ```
   npm install -g nodemon
   ```
