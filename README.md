@@ -13,14 +13,17 @@
 
 ## Setting up
 1. Install nodemon: This will automatically restart the node application when files are changed.
+
   ```
   npm install -g nodemon
   ```
 2. Install node packages - Go to the highroll project folder directory
+3
   ```
   npm install -g nodemon
   ```
 3. Run the server: Make sure it specifies EJS changes
+
   ```
   nodemone -e ejs
   ```
