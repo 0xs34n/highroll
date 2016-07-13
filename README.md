@@ -1,4 +1,4 @@
-# High Roll Multi-level Marketing Solution
+# High Roll: Multi-level Marketing Solution
 
 ## Folder Structure
 * controllers/ – defines your app routes and their logic
