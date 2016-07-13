@@ -12,17 +12,17 @@
 * package.json – remembers all packages that your app depends on and their versions
 
 ## Setting up
-1. *Install nodemon:* This will automatically restart the node application when files are changed.
+1. **Install nodemon:** This will automatically restart the node application when files are changed.
 
   ```
   npm install -g nodemon
   ```
-2. *Install node packages:*  Go to the highroll project folder directory
+2. **Install node packages:**  Go to the highroll project folder directory
 
   ```
-  npm install -g nodemon
+  npm install .
   ```
-3. *Run the server:* Make sure it specifies EJS changes
+3. **Run the server:** Make sure it specifies EJS changes
 
   ```
   nodemone -e ejs
