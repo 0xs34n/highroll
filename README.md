@@ -10,3 +10,17 @@
 * tests/ – tests everything which is in the other folders
 * app.js – initializes the app and glues everything together
 * package.json – remembers all packages that your app depends on and their versions
+
+## Setting up
+1. Install nodemon: This will automatically restart the node application when files are changed.
+```
+npm install -g nodemon
+```
+2. Install node packages - Go to the highroll project folder directory
+```
+npm install -g nodemon
+```
+3. Run the server: Make sure it specifies EJS changes
+```
+nodemone -e ejs
+```
